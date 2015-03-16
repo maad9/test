@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 int main(){
-	printf("asdads");
 
 	return 0;
 }
+
+void print(){
+	printf("print print\n");
+}
+
