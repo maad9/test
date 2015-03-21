@@ -5,12 +5,12 @@ int main(){
 	
 	for(i=0; i<5; i++)
 		printf("%d",i+1);
-	
+
 	return 0;
 }
 
 void print(){
-	printf("print print\n");
+	printf("print\n");
 }
 
 int add(int a, int b){
@@ -19,4 +19,8 @@ int add(int a, int b){
 
 int sub(int a, int b){
 	return a-b;
+}
+
+int multiply(int a, int b){
+	return a*b;
 }
