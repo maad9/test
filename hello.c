@@ -2,8 +2,7 @@
 
 int main(){
 
-	printf("Hello World\n);
-	printf("Hello .NET\n");
+	printf("Witaj .NET\n");
 	printf("Witaj Swiecie\n");
 
 	return 0;
